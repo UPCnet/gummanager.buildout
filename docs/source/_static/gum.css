@@ -1,0 +1,15 @@
+pre[class^='literal-block'] {
+white-space: pre;
+margin: 0;
+padding: 12px 12px !important;
+font-family: "courier new", "Incosolata","Consolata","Monaco",monospace;
+font-size: 12px;
+line-height: 1.5;
+display: block;
+overflow: auto;
+color: #404040;
+}
+
+div[class^='highlight'] pre {
+font-family: "courier new", "Incosolata","Consolata","Monaco",monospace !important;
+}
